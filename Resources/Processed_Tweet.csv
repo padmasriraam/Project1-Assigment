@@ -1,0 +1,55 @@
+id,date,name,tweet,replies_count,retweets_count,likes_count,Classification,Confidence
+1,4/2/2021,Elon Musk,Dogecoin is the peopleâs crypto,18465,97994,533684,Positive,0.474
+2,7/2/2021,Elon Musk,@itsALLrisky Itâs the most fun crypto!,807,3537,22013,Positive,0.418
+3,9/2/2021,Elon Musk,@CryptoShrikar @CoinDesk @Tesla @Dan_Z_Palmer ð¤£ð¤£,240,158,3167,Positive,0.594
+4,10/2/2021,Elon Musk,@freewalletorg Any crypto wallet that wonât give you your private keys should be avoided at all costs,2012,4449,28205,Positive,0.508
+5,19/2/2021,Elon Musk,"@realfuckingnews @business Somehow, a hash text file using ancient crypto can be exchanged for real goods &amp; services!? Amazing.",894,992,8356,Positive,0.431
+6,19/2/2021,Elon Musk,"@business To be clear, I am *not* an investor, I am an engineer. I donât even own any publicly traded stock besides Tesla.   However, when fiat currency has negative real interest, only a fool wouldnât look elsewhere.   Bitcoin is almost as bs as fiat money. The key word is âalmostâ.",2046,5810,33694,Positive,0.607
+7,19/2/2021,Elon Musk,"@business Teslaâs action is not directly reflective of my opinion. Having some Bitcoin, which is simply a less dumb form of liquidity than cash, is adventurous enough for an S&amp;P500 company.",922,3228,26473,Positive,0.623
+8,20/2/2021,Elon Musk,"@PeterSchiff An email saying you have gold is not the same as having gold. You might as well have crypto.  Money is just data that allows us to avoid the inconvenience of barter.  That data, like all data, is subject to latency &amp; error. The system will evolve to that which minimizes both.",2702,9707,81910,Positive,0.478
+9,21/2/2021,Elon Musk,Cryptocurrency explained  https://t.co/kUXaXx8a1R,10321,22639,148000,Positive,0.559
+10,21/2/2021,Elon Musk,Heard a rumor some crypto coin was pegging the dollar ð¤£ð¤£,16300,19666,263627,Positive,0.517
+11,2/3/2021,Elon Musk,Scammers &amp; crypto should get a room,8880,15538,189781,Positive,0.482
+12,12/3/2021,Elon Musk,BTC (Bitcoin) is an anagram of TBC(The Boring Company) What a coincidence!,11394,16586,235466,Negative,0.604
+13,24/3/2021,Elon Musk,Pay by Bitcoin capability available outside US later this year,3034,8695,136421,Positive,0.66
+14,24/3/2021,Elon Musk,"Tesla is using only internal &amp; open source software &amp; operates Bitcoin nodes directly.  Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currency.",4515,19032,173133,Positive,0.643
+15,24/3/2021,Elon Musk,You can now buy a Tesla with Bitcoin,34764,107869,865043,Positive,0.679
+16,10/4/2021,Elon Musk,@memescryptor !,114,92,3986,Positive,0.464
+17,27/4/2021,Elon Musk,"@stoolpresidente No, you do not. I have not sold any of my Bitcoin. Tesla sold 10% of its holdings essentially to prove liquidity of Bitcoin as an alternative to holding cash on balance sheet.",4338,12235,94927,Positive,0.636
+18,7/5/2021,Elon Musk,"Cryptocurrency is promising, but please invest with caution!  https://t.co/A4kplcP8Vq",18066,36888,218196,Positive,0.586
+19,10/5/2021,Elon Musk,SpaceX launching satellite Doge-1 to the moon next year  â Mission paid for in Doge â 1st crypto in space â 1st meme in space  To the mooooonnn!!   https://t.co/xXfjGZVeUW,34932,112129,526966,Positive,0.482
+20,13/5/2021,Elon Musk,Tesla &amp; Bitcoin  https://t.co/YSswJmVZhP,120523,73792,491785,Positive,0.687
+21,14/5/2021,Elon Musk,"To be clear, I strongly believe in crypto, but it canât drive a massive increase in fossil fuel use, especially coal",56563,33766,361444,Positive,0.408
+22,16/5/2021,Elon Musk,@EmperorBTC @CryptoWhale  https://t.co/4OC3CEKozo,4541,2732,17790,Positive,0.512
+23,16/5/2021,Elon Musk,@CryptoWhale Indeed,8371,4207,33225,Positive,0.481
+24,16/5/2021,Elon Musk,"@ChainLinkGod @PeterMcCormack Hey cryptocurrency âexpertsâ, ever heard of PayPal? Itâs possible â¦ maybe â¦ that I know than you realize about how money works.",7524,6621,46709,Positive,0.452
+25,16/5/2021,Elon Musk,"@ChainLinkGod @PeterMcCormack Bitcoin is actually highly centralized, with supermajority controlled by handful of big mining (aka hashing) companies.   A single coal mine in Xinjiang flooded, almost killing miners, and Bitcoin hash rate dropped 35%. Sound âdecentralizedâ to you?   https://t.co/Oom8yzGRNQ",6999,7184,39142,Negative,0.599
+26,16/5/2021,Elon Musk,"@poisonouspinups @michael_saylor He should wear outfit for Halloween, but with âBitcoinâ tattooed high on thighs",2156,1933,15287,Positive,0.638
+27,17/5/2021,Elon Musk,"@BTC_Archive To clarify speculation, Tesla has not sold any Bitcoin",17389,17083,98714,Positive,0.674
+28,20/5/2021,Elon Musk,"@WhatsupFranks @TeslaGong Currency is already digital! Decentralized crypto is an attempt to wrest power of currency dilution (pernicious form of taxation) &amp; capital controls from governments. That said, I sure hope the cure is better than the disease!  Mars/AI are essential to passing the great filter/s.",637,1237,6437,Positive,0.404
+29,21/5/2021,Elon Musk,@TeslaGong @wintonARK Bitcoin hashing (aka mining) energy usage is starting to exceed that of medium-sized countries. Almost impossible for small hashers to succeed without those massive economies of scale.,1515,820,5538,Negative,0.605
+30,22/5/2021,Elon Musk,"@TheRealShifo The true battle is between fiat &amp; crypto. On balance, I support the latter.",5435,12070,63968,Positive,0.473
+31,24/5/2021,Elon Musk,Spoke with North American Bitcoin miners. They committed to publish current &amp; planned renewable usage &amp; to ask miners WW to do so. Potentially promising.,26041,36730,320269,Positive,0.616
+32,4/6/2021,Elon Musk,@CryptoWhale Great thread ð¤£,991,915,10889,Positive,0.496
+33,4/6/2021,Elon Musk,@JRNYcrypto Needs laser eyes too,1430,884,9566,Positive,0.513
+34,4/6/2021,Elon Musk,@JRNYcrypto ð¤£ð¤£,1990,765,17298,Positive,0.461
+35,4/6/2021,Elon Musk,#Bitcoin ð  https://t.co/lNnEfMdtJf,55940,21330,211114,Positive,0.646
+36,5/6/2021,Elon Musk,@lexfridman @VitalikButerin @ethereum @Bitcoin @dogecoin @ShibainuCoin @IOHK_Charles @Cardano @chainlink @0xPolygon I pretty much agree with Vitalik,1960,3162,24061,Positive,0.606
+37,5/6/2021,Elon Musk,@CryptoWhale ð,1364,822,10746,Positive,0.475
+38,13/6/2021,Elon Musk,"@Cointelegraph This is inaccurate. Tesla only sold ~10% of holdings to confirm BTC could be liquidated easily without moving market.  When thereâs confirmation of reasonable (~50%) clean energy usage by miners with positive future trend, Tesla will resume allowing Bitcoin transactions.",9642,10398,53127,Positive,0.631
+39,17/6/2021,Elon Musk,@BitcoinMagazine @jespow Based on what data?,2759,820,10278,Neutral,0.727
+40,25/6/2021,Elon Musk,âThatâs not funny!â â Bitcoin maxis,3490,2899,59263,Positive,0.522
+41,25/6/2021,Elon Musk,How many Bitcoin maxis does it take to screw in a lightbulb?,17227,7767,98454,Negative,0.625
+42,25/6/2021,Elon Musk,@jack Oh right â¦ Bitcoin haha,848,738,7661,Positive,0.646
+43,19/7/2021,Elon Musk,"@jack @BitcoinMagazine @CathieDWood Sure, I have a ton",904,604,12803,Positive,0.622
+44,19/7/2021,Elon Musk,"@BitcoinMagazine @jack @CathieDWood During this talk, we will sing a cover of The Final Countdown by Europe  https://t.co/7YUXiW8dhd",982,810,10440,Positive,0.657
+45,29/7/2021,Elon Musk,"@heydave7 We donât have that many Bitcoin, but itâs close",3319,1305,25526,Positive,0.56
+46,7/8/2021,Elon Musk,"@brian_armstrong @MarkWarner Agreed, this is not the time to pick technology winners or losers in cryptocurrency technology. There is no crisis that compels hasty legislation.",1413,5351,33214,Positive,0.484
+47,24/10/2021,Elon Musk,@ProTheDoge Lots of people I talked to on the production lines at Tesla or building rockets at SpaceX own Doge. They arenât financial experts or Silicon Valley technologists. Thatâs why I decided to support Doge â it felt like the peopleâs crypto.,4060,7162,33219,Positive,0.495
+48,24/10/2021,Elon Musk,"@Filasophical @ShibaInuHodler Out of curiosity, I acquired some ascii hash strings called âBitcoin, Ethereum &amp; Dogeâ. Thatâs it.   As Iâve said before, donât bet the farm on crypto! True value is building products &amp; providing services to your fellow human beings, not money in any form.",5448,6230,36329,Negative,0.561
+49,24/10/2021,Elon Musk,"@itsALLrisky @TeslaGong @mishaboar @DogecoinFdn Possibly. Bitcoin was conceived at a time of relatively low bandwidth &amp; high latency. If both continue to improve substantially, we will reach a point when no second layer is needed.",739,760,5366,Positive,0.588
+50,24/10/2021,Elon Musk,@BillyM2k Plus crypto scams haha,2067,1319,17163,Positive,0.492
+51,25/10/2021,Elon Musk,@CryptoWhale Sclerotic democracy,666,617,8184,Positive,0.476
+52,1/11/2021,Elon Musk,"@BillyM2k - Everything on the Internet is true! - Externalize responsibility! - If you are able to do this, buy crypto!",2347,2908,19884,Positive,0.453
+53,20/11/2021,Elon Musk,@WSBChairman Bitcoin cures cancer,5002,5777,41849,Negative,0.618
+54,10/12/2021,Elon Musk,@BillyM2k @TheCryptoCPA ð¬,561,243,4506,Positive,0.434
