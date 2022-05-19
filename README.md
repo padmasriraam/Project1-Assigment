@@ -4,20 +4,27 @@ Group Participants:
 * Suraj
 * Marc 
 
-Problem solution visualisation is in notebook - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb
 
-# Project Problem Statement - Does Elon Musks's Crypto related Tweets have an affect on the price of Bitcoin?
+
+# Project Problem Statement 
+
+# Does Elon Musks's Crypto related Tweets have an affect on the price of Bitcoin?
+
 
 ## Contents
 
 * 1. Introduction
+
 * 2. Information Architecture
+
 * 3. Twitter Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/twitter.ipynb 
-     The twitter and monkey learn api keys are needed in .env file to run this notebook.
+
+     **The twitter and monkey learn api keys are needed in .env file to run this notebook. Install Tweepy library before running this notebook**
 * 4. Bitcoin Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/bitcoin_data.ipynb
+
 * 5. Dashboard - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb
-* Results
-https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.pdf
+
+* 6. Results - Problem solution visualisation is in notebook - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb 
 
 
 ## Introduction
@@ -108,4 +115,8 @@ Depending on the frequency of second case, it should determine his influence
 
 ## References
 * https://monkeylearn.com/blog/sentiment-analysis-with-python/
+* https://www.kaggle.com/datasets/ayhmrba/elon-musk-tweets-2010-2021?select=2021.csv
+* https://developer.twitter.com/en/docs/twitter-api
+* https://github.com/holoviz/holoviews/issues/396
+
 
