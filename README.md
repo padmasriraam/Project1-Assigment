@@ -13,20 +13,20 @@ Group Participants:
 
 ## Contents
 
-* 1. Introduction
+ 1. Introduction
 
-* 2. Information Architecture
+ 2. Information Architecture
 
-* 3. Twitter Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/twitter.ipynb 
+ 3. Twitter Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/twitter.ipynb 
 
      **The twitter and monkey learn api keys are needed in .env file to run this notebook. Install Tweepy library before running this notebook**
-* 4. Bitcoin Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/bitcoin_data.ipynb
+ 4. Bitcoin Analysis - https://github.com/padmasriraam/Project1-Assigment/blob/main/bitcoin_data.ipynb
 
-* 5. Dashboard - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb
+ 5. Dashboard - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb
 
-* 6. Results - Problem solution visualisation is in notebook - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb 
+ 6. Results - Problem solution visualisation is in notebook - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb 
 
-* 7. Presentation file- https://github.com/padmasriraam/Project1-Assigment/blob/main/Presentation.pptx
+ 7. Presentation file- https://github.com/padmasriraam/Project1-Assigment/blob/main/Presentation.pptx
 
 
 
@@ -51,8 +51,7 @@ Key questions we would like to answer:
 ### Architecture
 The following information architecture will be used to support our solution.
 
-image.png
-
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/50818927/169285104-501cfeac-bb18-4a49-93b4-73a17f24c381.png">
 
 ### Technologies
 
