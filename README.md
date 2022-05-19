@@ -26,6 +26,10 @@ Group Participants:
 
 * 6. Results - Problem solution visualisation is in notebook - https://github.com/padmasriraam/Project1-Assigment/blob/main/Plotting.ipynb 
 
+* 7. Presentation file- https://github.com/padmasriraam/Project1-Assigment/blob/main/Presentation.pptx
+
+
+
 
 ## Introduction
 
